@@ -83,7 +83,7 @@ author:
   location         : "Canberra, Australia"
   employer         : "The Australian National University"
   googlescholar    : "https://scholar.google.com.au/citations?user=pXWdkr4AAAAJ&hl=en"
-  email            : "firstname dot lastname at anu dot edu dot au
+  email            : "firstname dot lastname at anu dot edu dot au"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : #"replacethistwitterhandle"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
