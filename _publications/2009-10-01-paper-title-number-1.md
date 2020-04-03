@@ -17,3 +17,8 @@ author_profile: true
 * Efficient pattern mining based cryptanalysis for privacy-preserving record linkage, Anushka Vidanage, Thilina Ranbaduge, Peter Christen, and Rainer Schnell, 35th IEEE International Conference on Data Engineering (ICDE), 2019. 
 
 
+{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
