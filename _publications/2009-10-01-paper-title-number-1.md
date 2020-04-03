@@ -1,9 +1,10 @@
 ---
 layout: archive
-title: "Publications"
+title: ""
 permalink: /publications/
 author_profile: true
 ---
+# Recent Publications
 
 ## Peer-reviewed Journal
 * Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?, Thilina Ranbaduge, Dinusha Vatsalan, and Peter Christen, Transactions of Data Privacy, accepted for publication.
@@ -17,8 +18,4 @@ author_profile: true
 * Efficient pattern mining based cryptanalysis for privacy-preserving record linkage, Anushka Vidanage, Thilina Ranbaduge, Peter Christen, and Rainer Schnell, 35th IEEE International Conference on Data Engineering (ICDE), 2019. 
 
 
-{% if author.googlescholar %} You can also find my articles on my Google Scholar profile. {% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %} {% include archive-single.html %} {% endfor %}
+You can also find my articles on my <a href="https://scholar.google.com.au/citations?user=pXWdkr4AAAAJ&hl=en">Google Scholar profile</a>. 
