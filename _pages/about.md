@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
+<h2> About Me</h2>
 <ul>
   <li>I am a research fellow in the <a href="https://cecs.anu.edu.au/">Research School of Computer Science</a> at the <a href="https://www.anu.edu.au/">Australian National University (ANU)</a>.</li>
   <li>My current research lies towards working on temporal privacy-preserving record linkage techniques (PPRL) for multiple parties, the development of secure encoding techniques for efficient and
