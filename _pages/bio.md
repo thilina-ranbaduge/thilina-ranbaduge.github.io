@@ -20,3 +20,14 @@ PPRL for multiple parties.
     + Primary supervisor: <a href="http://users.cecs.anu.edu.au/~christen/">Prof. Peter Christen</a>
 * PG Dip in Computer Science, University of Moratuwa, Sri Lanka (2013)
 * BSc. (Hons) Information Technology with first class from University of Moratuwa, SriLanka (2009)
+
+## Work Experience
+* Research Fellow - The Australian National University (January 2019 - Current)
+* Post-doctoral Fellow - The Australian National University (October 2017 - December 2018)
+* Research Assistant - The Australian National University (May 2017 – October 2017)
+* Tutor - Research School of Computer Science, The Australian National University (January 2017 – May 2017)
+* Lecturer - University of Moratuwa, Sri Lanka (2012 - 2014)
+* Examiner - Center for Open and Distance Learning, University of Moratuwa, Sri Lanka (2011 - 2013)
+* Lecturer (On contract) - University of Moratuwa, Sri Lanka (2011 - 2012)
+* Computer Programmer - State Timber Corporation, Sri Lanka (2011 - 2011)
+* Software Engineer	- Codegen International Pvt Ltd., Sri Lanka	(2009 - 2011)
