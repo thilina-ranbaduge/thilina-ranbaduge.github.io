@@ -15,5 +15,8 @@ PPRL for multiple parties.
 
 ## Education
 * PhD in Computer Science, Australian National University, Australia (2018)
+    + Thesis title: <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/140918/1/Ranbaduge%20Thesis%202018.pdf">A Scalable Blocking Framework for Multidatabase Privacy-preserving Record Linkage</a>
+    
+    + Primary supervisor: <a href="http://users.cecs.anu.edu.au/~christen/">Prof. Peter Christen</a>
 * PG Dip in Computer Science, University of Moratuwa, Sri Lanka (2013)
 * BSc. (Hons) Information Technology with first class from University of Moratuwa, SriLanka (2009)
