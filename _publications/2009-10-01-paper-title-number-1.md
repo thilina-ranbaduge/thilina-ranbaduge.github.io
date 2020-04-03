@@ -13,7 +13,7 @@ author_profile: true
 * [Evaluation measure for group-based record linkage]()
   Charini Nanayakkara, Peter Christen, <b>Thilina Ranbaduge</b>, and Eilidh Garrett </br>
   <i>International Journal of Population Data Science </i>, 2019  
-* [A scalable privacy-preserving framework for temporal record linkage]("http://") </br>
+* [A scalable privacy-preserving framework for temporal record linkage](http://) </br>
   <b>Thilina Ranbaduge</b> and Peter Christen </br>
   <i>Knowledge and Information Systems</i>, 2019. 
 
