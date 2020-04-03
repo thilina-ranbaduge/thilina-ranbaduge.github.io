@@ -13,6 +13,10 @@ real-world entities without compromising privacy of the entities represented by 
 In my PHD research study I developed scalable techniques for efficient and effective indexing mechanisms in 
 PPRL for multiple parties.
 
+## Research and Teaching Interests 
+Data mining, record linkage, privacy-preserved record linkage, Big data, scalable indexing, health analytics, data analytics, educational data mining, Secure multi-party computation, crime analytics.
+
+
 ## Education
 * PhD in Computer Science, Australian National University, Australia (2018)
     + Thesis title: <a href="https://openresearch-repository.anu.edu.au/bitstream/1885/140918/1/Ranbaduge%20Thesis%202018.pdf">A Scalable Blocking Framework for Multidatabase Privacy-preserving Record Linkage</a>
