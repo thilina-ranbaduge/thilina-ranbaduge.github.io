@@ -31,3 +31,12 @@ PPRL for multiple parties.
 * Lecturer (On contract) - University of Moratuwa, Sri Lanka (2011 - 2012)
 * Computer Programmer - State Timber Corporation, Sri Lanka (2011 - 2011)
 * Software Engineer	- Codegen International Pvt Ltd., Sri Lanka	(2009 - 2011)
+
+## Awards And Scholarships
+* Outstanding poster, Collaboration across Boundaries 2018 Conference, Canberra Australia (2018)
+* Co-investigator, Bloom filters for Privacy-Preserving Record Linkage Australian Bureau of Statistics (ABS) Consultancy Project (2018)
+* Data Linkage and Anonymisation Programme participant, Funded by the Isaac Newton Institute for Mathematical Sciences, 
+University of Cambridge, UK (2016)
+* ANU PhD international scholarship recipient (2014 - 2017)
+* ANU higher degree research merit scholarship recipient (2014 - 2018)
+
