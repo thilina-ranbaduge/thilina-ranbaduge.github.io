@@ -8,4 +8,17 @@ redirect_from:
   - /about.html
 ---
 
+<ul>
+  <li>test 1</li>
+  
+</ul>
+
+<b> Recent News</b>
+
+
+
+
+<b> Contact Details </b>
+
+
 
