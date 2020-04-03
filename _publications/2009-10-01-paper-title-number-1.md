@@ -7,9 +7,15 @@ author_profile: true
 # Recent Publications
 
 ## Peer-reviewed Journal
-* Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?, Thilina Ranbaduge, Dinusha Vatsalan, and Peter Christen, Transactions of Data Privacy, accepted for publication.
-* Evaluation measure for group-based record linkage, Charini Nanayakkara, Peter Christen, Thilina Ranbaduge, and Eilidh Garrett, International Journal of Population Data Science, 2019. 
-* A scalable privacy-preserving framework for temporal record linkage, Thilina Ranbaduge and Peter Christen, Knowledge and Information Systems, 2019. 
+* [Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?]()</br>
+  <b>Thilina Ranbaduge</b>, Dinusha Vatsalan, and Peter Christen</br>
+  <i>Transactions of Data Privacy,</i>, accepted for publication
+* [Evaluation measure for group-based record linkage]()
+  Charini Nanayakkara, Peter Christen, <b>Thilina Ranbaduge</b>, and Eilidh Garrett </br>
+  <i>International Journal of Population Data Science </i>, 2019  
+* [A scalable privacy-preserving framework for temporal record linkage]() </br>
+  <b>Thilina Ranbaduge</b> and Peter Christen </br>
+  <i>Knowledge and Information Systems</i>, 2019. 
 
 ## Peer-reviewed Conference / Workshop / Demo 
 * Secure and Accurate Two-step Hash Encoding for Privacy-Preserving Record Linkage, Thilina Ranbaduge, Peter Christen, and Rainer Schnell, to be presented at 24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), Singapore, May 2020.
