@@ -9,11 +9,11 @@ author_profile: true
 ## Peer-reviewed Journal
 * [Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?]()</br>
   <b>Thilina Ranbaduge</b>, Dinusha Vatsalan, and Peter Christen</br>
-  <i>Transactions of Data Privacy,</i>, accepted for publication
-* [Evaluation measure for group-based record linkage]()
+  <i>Transactions of Data Privacy</i>, accepted for publication
+* [Evaluation measure for group-based record linkage]()</br>
   Charini Nanayakkara, Peter Christen, <b>Thilina Ranbaduge</b>, and Eilidh Garrett </br>
   <i>International Journal of Population Data Science </i>, 2019  
-* [A scalable privacy-preserving framework for temporal record linkage](http://) </br>
+* [A scalable privacy-preserving framework for temporal record linkage](https://link.springer.com/article/10.1007/s10115-019-01370-1) </br>
   <b>Thilina Ranbaduge</b> and Peter Christen </br>
   <i>Knowledge and Information Systems</i>, 2019. 
 
