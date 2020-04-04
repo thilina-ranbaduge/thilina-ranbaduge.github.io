@@ -13,6 +13,6 @@ author_profile: true
  
  <br>
  * See our new forum for anything about data linkage <b>DLforum</b>. This is a multi-disciplinary forum for the data linkage community and we also encourage everybody to post any announcements such as new papers on data linkage, conferences, data sets, software etc. or any general or specific questions.<br>
- <a href="https://dmm.anu.edu.au/DLforum/index.php"><img src='/images/dlforum.png' width="300px" height="213px"></a>
+ <a href="https://dmm.anu.edu.au/DLforum/index.php"><img src='/images/dlforum.png' width="200px" height="113px"></a>
  <br>
 See our <a href="https://ijpds.org/article/view/420">new paper</a> on the DLforum recently published at the International Journal of Population Data Science (IJPDS). 
