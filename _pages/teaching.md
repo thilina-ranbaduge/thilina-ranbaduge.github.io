@@ -17,8 +17,9 @@ author_profile: true
 # Services
 
 ## Conference (Program Committee and Reviewer)
-
+* 
 
 
 ## Journal (Invited Reviewer)
-*
+* Elsevier Information Systems (IS) 
+* Springer Journal on Very Large Data Bases (VLDB) 
