@@ -12,7 +12,7 @@ author_profile: true
   Peter Christen and <b>Thilina Ranbaduge</b><br> 
   <i>Sri Lanka Association for the Advancement of Science (SLAAS)</i>, Section E3 – Computer Science, Colombo, Sri Lanka, June 2017
 * [Multidatabase privacy-preserving record linkage]()<br>
-  <b>Thilina Ranbaduge</b><br.
+  <b>Thilina Ranbaduge</b><br>
   <i>Universities of Colombo, Moratuwa, and Peradeniya</i>, Sri Lanka, June 2017
 * [Privacy-preserving record linkage]()
   Peter Christen and <b>Thilina Ranbaduge</b><br>
