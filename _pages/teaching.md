@@ -17,8 +17,12 @@ author_profile: true
 # Services
 
 ## Conference (Program Committee and Reviewer)
-* 
-
+* IEEE International Conference on Data Mining (ICDM) - 2019
+* Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) - 2018, 2019, 2020
+* Workshop on Data Integration and Applications (DINA) - 2018, 2019
+* SIGMOD International Conference on Management of Data - External 2018
+* The Australian Data Mining and Analytics Conference (AusDM) - 2018, 2019
+* International Conference on Design Science Research in Information Systems and Technology (DESRIST) 2018
 
 ## Journal (Invited Reviewer)
 * Elsevier Information Systems (IS) 
