@@ -22,9 +22,9 @@ author_profile: true
   <i>The Farr Institute of Health Informatics Research</i>, London, UK, September 2016. 
 
 # Posters
-* [Temporal Privacy-preserving record linkage]() - received Outstanding poster award<br>
+* [Temporal Privacy-preserving record linkage](https://thilina-ranbaduge.github.io/files/poster-edited-thilina.pdf) - received Outstanding poster award<br>
   <b>Thilina Ranbaduge</b> and Peter Christen<br>
   <i>Collaboration across Boundaries Conference</i>, Canberra Australia, 2018
-* [Multi-party privacy-preserving record linkage (MP-PPRL)]()<br>
+* [Multi-party privacy-preserving record linkage (MP-PPRL)](https://thilina-ranbaduge.github.io/files/Final_edited_pprl_poster.pdf)<br>
   Thilina Ranbaduge, Dinusha Vatsalan, and Peter Christen<br>
   <i>Data linkage: Techniques, Challenges and Applications workshop </i>, Isaac Newton Institute for Mathematical Sciences,   University of Cambridge, UK, September 2016
