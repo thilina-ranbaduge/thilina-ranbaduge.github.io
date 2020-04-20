@@ -20,7 +20,7 @@ databases.</li>
 
 <ul>
   <li>Our paper on a novel secure encoding method has been accepted to be present at the <a href="https://www.pakdd2020.org/"> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</a> 2020, Singapore. </li>
-  <li>Our paper on secure communications between multiple parties has been accepted to be published in the journal <a href="http://www.tdp.cat/issues16/abs.a335a18.php">Transactions on Data Privacy</a> </li>  
+  <li>Our paper on secure communications between multiple parties has been published in the journal <a href="http://www.tdp.cat/issues16/abs.a335a18.php">Transactions on Data Privacy</a> </li>  
 </ul>
 
 
