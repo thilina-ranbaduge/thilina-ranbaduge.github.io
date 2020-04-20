@@ -7,7 +7,7 @@ author_profile: true
 # Recent Publications
 
 ## Peer-reviewed Journal
-* [Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?]()<br>
+* [Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?](http://www.tdp.cat/issues16/abs.a335a18.php)<br>
   <b>Thilina Ranbaduge</b>, Dinusha Vatsalan, and Peter Christen<br>
   <i>Transactions of Data Privacy</i>, accepted for publication
 * [Evaluation measure for group-based record linkage](https://ijpds.org/article/view/1127)<br>
