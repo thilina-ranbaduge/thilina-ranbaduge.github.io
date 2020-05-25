@@ -20,7 +20,7 @@ author_profile: true
 ## Peer-reviewed Conference / Workshop / Demo 
 * [Secure and Accurate Two-step Hash Encoding for Privacy-Preserving Record Linkage]()<br>
   <b>Thilina Ranbaduge</b>, Peter Christen, and Rainer Schnell <br>
-  To be presented at <i>24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i>, Singapore, May 2020
+  <i>24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i>, Singapore, May 2020
 * [Outlier Detection Based Accurate Geocoding of Historical Addresses](https://link.springer.com/chapter/10.1007/978-981-15-1699-3_4) <br>
   Nishadi Kirielle, Peter Christen, and <b>Thilina Ranbaduge</b> <br>
   <i>Australasian Conference on Data Mining</i>, 2019
