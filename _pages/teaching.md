@@ -4,7 +4,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-
+* Co-lecturer, [Data Wrangling (COMP 8430, COMP 3430)](https://programsandcourses.anu.edu.au/2020/course/COMP3430), S2 2020, Research School of Computer Science, The Australian National University.
 * Co-lecturer and Tutor, [Data Wrangling (COMP 8430)](https://programsandcourses.anu.edu.au/2020/course/COMP8430), Summer 2020, Research School of Computer Science, The Australian National University. 
 * Co-lecturer, [Data Wrangling (COMP 8430, COMP 3430)](https://programsandcourses.anu.edu.au/2020/course/COMP3430), S2 2019, Research School of Computer Science, The Australian National University.
 * Co-lecturer and Tutor, [Data Wrangling (COMP 8430)](https://programsandcourses.anu.edu.au/2019/course/COMP8430), Summer 2019, Research School of Computer Science, The Australian National University.
@@ -19,7 +19,7 @@ author_profile: true
 ## Conference (Program Committee and Reviewer)
 * IEEE International Conference on Data Mining (ICDM) - 2019
 * Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD) - 2018, 2019, 2020
-* Workshop on Data Integration and Applications (DINA) - 2018, 2019
+* Workshop on Data Integration and Applications (DINA) - 2018, 2019, 2020
 * SIGMOD International Conference on Management of Data - External 2018
 * The Australian Data Mining and Analytics Conference (AusDM) - 2018, 2019
 * International Conference on Design Science Research in Information Systems and Technology (DESRIST) 2018
