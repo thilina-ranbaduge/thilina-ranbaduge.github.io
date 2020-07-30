@@ -19,6 +19,8 @@ databases.</li>
 <h2> Recent News</h2>
 
 <ul>
+    <li>Our paper on a novel Bloom filter hardening techniques has been accepted to be present at the <a href="https://www.cikm2020.org/"> 29th ACM International Conference on Information and Knowledge Management (CIKM)</a> 2020. </li>
+    <li>Our paper on a novel graph based similarity matching attack has been accepted to be present at the <a href="https://www.cikm2020.org/"> 29th ACM International Conference on Information and Knowledge Management (CIKM)</a> 2020. </li>
   <li>Our paper on a novel secure encoding method has been accepted to be present at the <a href="https://www.pakdd2020.org/"> Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</a> 2020, Singapore. </li>
   <li>Our paper on secure communications between multiple parties has been published in the journal <a href="http://www.tdp.cat/issues16/abs.a335a18.php">Transactions on Data Privacy</a> </li>  
 </ul>
