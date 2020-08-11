@@ -19,7 +19,7 @@ databases.</li>
 <h2> Recent News</h2>
 
 <ul>
-      <li>Our new book <b>Linking Sensitive Data - Methods and Techniques for Practical Privacy-Preserving Information Sharing</b> is in Press. </li>
+      <li>Our new book <b>Linking Sensitive Data - Methods and Techniques for Practical Privacy-Preserving Information Sharing</b> is in press. In this book we describe advanced techniques and concepts for linking sensitive databases using privacy-preserving methods. </li>
   
     <li>Our paper on a novel Bloom filter hardening techniques has been accepted to be present at the <a href="https://www.cikm2020.org/"> 29th ACM International Conference on Information and Knowledge Management (CIKM)</a> 2020. </li>
     <li>Our paper on a novel graph based similarity matching attack has been accepted to be present at the <a href="https://www.cikm2020.org/"> 29th ACM International Conference on Information and Knowledge Management (CIKM)</a> 2020. </li>
