@@ -9,7 +9,7 @@ author_profile: true
 ## Books
 * [Linking Sensitive Data: Methods and Techniques for Practical Privacy-Preserving Information Sharing](https://www.springer.com/gp/book/9783030597054)<br>
  Peter Christen, <b>Thilina Ranbaduge</b>, and Rainer Schnell<br>
- <a href="https://www.springer.com/gp/book/9783030597054">Springer</a>
+ <a href="https://www.springer.com/gp/book/9783030597054">Springer, 2020</a>
 
 ## Peer-reviewed Journal
 * [A Privacy Attack on Multiple Dynamic Match-key based Privacy-Preserving Record Linkage](https://ijpds.org/article/view/1345)<br>
