@@ -6,7 +6,15 @@ author_profile: true
 ---
 # Recent Publications
 
+## Books
+*[Linking Sensitive Data: Methods and Techniques for Practical Privacy-Preserving Information Sharing](https://www.springer.com/gp/book/9783030597054)<br>
+ Peter Christen, <b>Thilina Ranbaduge</b>, and Rainer Schnell<br>
+ <a href="https://www.springer.com/gp/book/9783030597054">Springer</a>
+
 ## Peer-reviewed Journal
+* [A Privacy Attack on Multiple Dynamic Match-key based Privacy-Preserving Record Linkage](https://ijpds.org/article/view/1345)<br>
+  Anushka Vidanage, <b>Thilina Ranbaduge</b>, Peter Christen, and Sean Randall<br>
+  <i>International Journal of Population Data Science</i>, 2020
 * [Secure Multi-party Summation Protocols: Are They Secure Enough Under Collusion?](http://www.tdp.cat/issues16/abs.a335a18.php)<br>
   <b>Thilina Ranbaduge</b>, Dinusha Vatsalan, and Peter Christen<br>
   <i>Transactions of Data Privacy</i>, 2020
