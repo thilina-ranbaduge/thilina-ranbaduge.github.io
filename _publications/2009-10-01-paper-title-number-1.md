@@ -7,7 +7,7 @@ author_profile: true
 # Recent Publications
 
 ## Books
-*[Linking Sensitive Data: Methods and Techniques for Practical Privacy-Preserving Information Sharing](https://www.springer.com/gp/book/9783030597054)<br>
+* [Linking Sensitive Data: Methods and Techniques for Practical Privacy-Preserving Information Sharing](https://www.springer.com/gp/book/9783030597054)<br>
  Peter Christen, <b>Thilina Ranbaduge</b>, and Rainer Schnell<br>
  <a href="https://www.springer.com/gp/book/9783030597054">Springer</a>
 
