@@ -9,9 +9,8 @@ redirect_from:
 ---
 <h2> About Me</h2>
 <ul>
-  <li>I am a research fellow in the <a href="https://cecs.anu.edu.au/">Research School of Computer Science</a> at the <a href="https://www.anu.edu.au/">Australian National University (ANU)</a>.</li>
-  <li>My current research lies towards working on temporal privacy-preserving record linkage techniques (PPRL) for multiple parties, the development of secure encoding techniques for efficient and
-effective record linkage across different organisations, and development of provably secure linkage techniques for graph
+  <li>I am a research scientist in the <a href="https://research.csiro.au/isp/">Information Security and Privacy</a> group at <a href="https://www.csiro.au/">CSIRO</a>.</li>
+  <li>My current research lies towards working on privacy-enhancing technologies in the context of Machine Learning, the development of secure linkage techniques for efficient and effective record linkage across different organisations, and development of provably secure analytics techniques for graph
 databases.</li> 
 <li>My research interests are privacy in data mining and matching, multidatabase integration, and privacy-preserving linkage of heterogeneous databases.</li>    
 </ul>
@@ -30,13 +29,13 @@ databases.</li>
 
 <h2> Contact Details </h2>
 
-Address: Research School of Computer Science,
-         ANU College of Engineering and Computer Science
-         145 Science Road
-         The Australian National University
-         Canberra ACT 2601 Australia
+Address: GPO Box 1700 Canberra ACT 2601
+         Building 801 Synergy, 
+         North Science Road, 
+         Acton  ACT 2601
+         Australia
          
-Email  : thilina dot ranbaduge at anu dot edu dot au
+Email  : thilina dot ranbaduge at csiro dot au
 
 
 
