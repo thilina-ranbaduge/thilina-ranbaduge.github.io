@@ -5,10 +5,9 @@ permalink: /bio/
 author_profile: true
 ---
 
-I am a research fellow in the Research School of Computer Science at the Australian National University (ANU). 
-I am currently working on temporal privacy-preserving record linkage techniques (PPRL) for multiple parties. 
-PPRL is the problem of identifying matching records from different databases that correspond to the same 
-real-world entities without compromising privacy of the entities represented by those records. 
+I am a research scientist in the Information Security and Privacy group at CSIRO. 
+I am currently working on federated learning and privacy enhanced analytics for graph databases,
+and secure and efficient data linkage techniques for large databases. 
 
 In my PHD research study I developed scalable techniques for efficient and effective indexing mechanisms in 
 PPRL for multiple parties.
@@ -26,7 +25,8 @@ Data mining, record linkage, privacy-preserved record linkage, Big data, scalabl
 * BSc. (Hons) Information Technology with first class from University of Moratuwa, SriLanka (2009)
 
 ## Work Experience
-* Research Fellow - The Australian National University (January 2019 - Current)
+* Research Scientist - Data61, CSIRO (April 2021 - Current)
+* Research Fellow - The Australian National University (January 2019 - April 2021)
 * Post-doctoral Fellow - The Australian National University (October 2017 - December 2018)
 * Research Assistant - The Australian National University (May 2017 – October 2017)
 * Tutor - Research School of Computer Science, The Australian National University (January 2017 – May 2017)
