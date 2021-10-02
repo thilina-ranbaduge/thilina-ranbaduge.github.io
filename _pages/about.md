@@ -10,7 +10,7 @@ redirect_from:
 <h2> About Me</h2>
 <ul>
   <li>I am a research scientist in the <a href="https://research.csiro.au/isp/">Information Security and Privacy</a> group at <a href="https://www.csiro.au/">CSIRO</a>.</li>
-  <li>My current research lies towards working on privacy-enhancing technologies in the context of Machine Learning, the development of secure linkage techniques for efficient and effective record linkage across different organisations, and development of provably secure analytics techniques for graph
+  <li>My current research lies in working on privacy-enhancing technologies in the context of Machine Learning, the development of secure linkage techniques for efficient and effective record linkage across different organisations, and the development of provably secure analytics techniques for graph
 databases.</li> 
 <li>My research interests are privacy in data mining and matching, multidatabase integration, and privacy-preserving linkage of heterogeneous databases.</li>    
 </ul>
