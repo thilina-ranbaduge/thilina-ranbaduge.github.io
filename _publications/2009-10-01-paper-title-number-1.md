@@ -26,12 +26,12 @@ author_profile: true
   <i>Knowledge and Information Systems</i>, 2019 
 
 ## Peer-reviewed Conference / Workshop / Demo 
-* [Securing Bloom Filters for Privacy-preserving Record Linkage]()<br>
+* [Securing Bloom Filters for Privacy-preserving Record Linkage](https://thilina-ranbaduge.github.io/files/CIKM2020_hardening_camera_ready.pdf)<br>
   <b>Thilina Ranbaduge</b> and Rainer Schnell <br>
-  <i>to be presented at 29th ACM International Conference on Information and Knowledge Management (CIKM)</i>, October 2020
+  <i>29th ACM International Conference on Information and Knowledge Management (CIKM)</i>, October 2020
 * [A Graph Matching Attack on Privacy-Preserving Record Linkage]()<br>
   Anushka Vidanage, Peter Christen, <b>Thilina Ranbaduge</b>, and Rainer Schnell <br>
-  <i>to be presented at 29th ACM International Conference on Information and Knowledge Management (CIKM)</i>, October 2020
+  <i>29th ACM International Conference on Information and Knowledge Management (CIKM)</i>, October 2020
 * [Secure and Accurate Two-step Hash Encoding for Privacy-Preserving Record Linkage]()<br>
   <b>Thilina Ranbaduge</b>, Peter Christen, and Rainer Schnell <br>
   <i>24th Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD)</i>, Singapore, May 2020
